@@ -36,6 +36,6 @@ npm install
 # 运行
 npm run dev
 
-### 联系方式
+## 📸 联系方式
 > 有需要的可以添加微信，我们将为您提供专业的服务
-<img src="images/1.png" width="200">
+<img src="images/4.png" width="600">
