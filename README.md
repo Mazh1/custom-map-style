@@ -19,20 +19,28 @@
 <img src="images/2.png" width="600">
 <img src="images/1.png" width="600">
 
-### 安装
+## 🖥️ 安装
 
 ```bash
-# 克隆项目
+克隆项目
 git clone https://github.com/Mazh1/custom-map-style.git
 
-# 进入目录
+进入目录
 cd custom-map-style
 
-# 安装依赖
+安装依赖
 npm install
-# 运行
-npm run dev
 
-## 📞 联系方式
-<img src="images/lx.png" width="200">
+运行
+npm run dev
+```
+## 📞微信联系
+
+<div align="left">
+  <small>扫码添加，备注"地图定制"，我们将为您提供专业的地图服务！</small>
+  <br>
+  <br>
+  <img src="images/lx.png" width="200" alt="微信二维码">
+</div>
+
 
