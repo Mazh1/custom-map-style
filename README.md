@@ -1,5 +1,3 @@
-
-
 # 自定义地图样式
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -21,10 +19,6 @@
 <img src="images/2.png" width="600">
 <img src="images/1.png" width="600">
 
-## 📸 联系方式
-> 有需要的可以添加微信，我们将为您提供专业的服务
-<img src="images/4.png" width="600">
-
 ### 安装
 
 ```bash
@@ -38,4 +32,7 @@ cd custom-map-style
 npm install
 # 运行
 npm run dev
+
+## 📞 联系方式
+<img src="images/lx.png" width="200">
 
